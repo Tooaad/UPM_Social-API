@@ -1,0 +1,26 @@
+Kayle;Kayle R.;kaykayr@gmail.com
+Buenos dias;Kayle
+Estoy esquiando;Tom
+Ya estoy en casa;Kayle
+Sigo esquiando;Kayle
+Hoy he hecho una tarta;Kayle
+Tengo hambre;Sara
+Tom;Tom H.;tommhyy@gmail.com
+Estoy jugando al futbol;Tom
+He ido al cine;Tom
+Estoy de viaje;Tom
+Hoy he hecho una barbacoa;Tom
+Acabo de llegar;Sara
+Sara;Sara E.;EsaraE@gmail.com
+Hoy he comido macarrones;Sara
+Yo tambien;Kayle
+Estoy en el cine;Sara
+Hoy he ido de compras;Sara
+He visto una película interesante;Sara
+Me encanta el verano;Tom
+Alexa;Alexa F.;Alexxaaa@gmail.com
+Hola Mundo;Alexa
+Hoy he ido al gimnasio;Alexa
+Estoy cocinando;Alexa
+Vamos a cenar?;Sara
+He ido al parque;Alexa
