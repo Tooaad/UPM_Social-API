@@ -2,18 +2,18 @@
 API Restful from Service Oriented Systems course
 
 ## Subject
-Implement a working prototype of a facebook-like social network. Users must chat with others via posts and messages. Also they must have the possibility to add or remove friends, check their profile, messages and posts. Here are some operations of the API:
+Implement a working prototype of a Facebook-like social network. Users must chat with others via posts and messages. Also, they must have the possibility to add or remove friends and check their profiles, messages, and posts. Here are some operations of the API:
 
 - Add/Delete a user
-- Check basic data of any user
-- List all the users on the network. This list should filter by name
+- Check the basic data of any user
+- List all the users on the network. This list should be filtered by name
 - Post/Edit/Delete a message on your profile page
-- List all the messages on your profile page. This list should filter by range
+- List all the messages on your profile page. This list should be filtered by a range
 - Add/Delete a friend
-- List all your friends on your profile page. This list should filter by range
+- List all your friends on your profile page. This list should be filtered by a range
 - Send a message to the profile page of a friend
-- List all the message sent to other friends. This list should filter by date and range
-- List friends messages. This list should filter by content message
+- List all the messages sent to other friends. This list should be filtered by date and range
+- List friend's messages. This list should be filtered by content message
 
 ## Tools 
 - Java 8
@@ -32,7 +32,7 @@ Implement a working prototype of a facebook-like social network. Users must chat
 * #### GET /usuarios/Kayle
 [![Image from Gyazo](https://i.gyazo.com/5e9195ff6a42a6f30662b83b9d75f2ca.png)](https://gyazo.com/5e9195ff6a42a6f30662b83b9d75f2ca)
 
-> Show personal data of the user specified
+> Show personal data of the user-specified
 
 ---
 * #### GET /usuarios/Kayle/pagina_personal
@@ -66,18 +66,18 @@ Implement a working prototype of a facebook-like social network. Users must chat
 * #### GET /usuarios/Kayle/amigos + name filter
 [![Image from Gyazo](https://i.gyazo.com/58a65dc72039015b437e3192215a7eb5.png)](https://gyazo.com/58a65dc72039015b437e3192215a7eb5)
 
-> Same but show names that contains the content filter
+> Same but show names that contain the content filter
 
 ----
 * #### GET /usuarios/Kayle/amigos/nuevos_mensajes
 [![Image from Gyazo](https://i.gyazo.com/fb5f3f85a31fc3e10667bc16dd65c937.png)](https://gyazo.com/fb5f3f85a31fc3e10667bc16dd65c937)
 
-> Show all new friend posts on their personal page's
+> Show all new friend posts on their personal pages
 
 * #### GET /usuarios/Kayle/amigos/mensajes + content filter
 [![Image from Gyazo](https://i.gyazo.com/3eee13bc73ad1f227188f8c98a73ff30.png)](https://gyazo.com/3eee13bc73ad1f227188f8c98a73ff30)
 
-> Show all messages that contains the filter on their message content
+> Show all messages that contain the filter on their message content
 
 ----
 * #### GET /usuarios/Kayle/perfil
